@@ -1,0 +1,3 @@
+
+xpack.security.transport.filter.deny: _all
+transport.profiles.client.xpack.security.filter.deny: _all
